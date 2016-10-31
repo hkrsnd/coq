@@ -1,0 +1,13 @@
+DIGEST 111512fa18a0665f3c810b414daff497
+FExtraction
+R601:615 Coq.Arith.Arith <> <> lib
+R633:647 Coq.Arith.EqNat <> <> lib
+R665:675 ImpCEvalFun <> <> lib
+R1474:1477 Coq.Init.Datatypes <> bool ind
+R1731:1733 Coq.Init.Datatypes <> nat ind
+R3110:3114 Coq.Strings.Ascii <> <> lib
+R3116:3121 Coq.Strings.String <> <> lib
+R3142:3146 Coq.Strings.Ascii <> ascii ind
+R3864:3870 Coq.Init.Specif <> sumbool ind
+R3962:3964 Imp <> <> lib
+R3982:3990 ImpParser <> <> lib
